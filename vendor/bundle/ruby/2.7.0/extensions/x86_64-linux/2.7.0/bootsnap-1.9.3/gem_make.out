@@ -1,0 +1,15 @@
+current directory: /home/wk/karol-testes/conta-digital/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.3/ext/bootsnap
+/home/wk/.asdf/installs/ruby/2.7.2/bin/ruby -I /home/wk/.asdf/installs/ruby/2.7.2/lib/ruby/2.7.0 -r ./siteconf20211226-27843-o4ycmv.rb extconf.rb
+creating Makefile
+
+current directory: /home/wk/karol-testes/conta-digital/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.3/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/wk/karol-testes/conta-digital/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.3/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/wk/karol-testes/conta-digital/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.3/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20211226-27843-r62iim/bootsnap
