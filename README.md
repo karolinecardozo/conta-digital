@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# conta-digital
+repositorio usado para estudo
+>>>>>>> 459959b79c87da057911779e4c14415c10fd223a
